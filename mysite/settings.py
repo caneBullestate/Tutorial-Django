@@ -25,7 +25,7 @@ SECRET_KEY = '$chnnmp_eb$2rg(-d)mc2(^coo4&lgg!=xnx3vavv67t*4%m)('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["18.231.35.149"]
 
 
 # Application definition
